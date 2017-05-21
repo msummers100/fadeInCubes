@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    font-family: "Lato", sans-serif;
+    color: black;
+    font-weight: 300;
+    background-color: #fff;
+    padding-top: 31px;
+    margin: 45px;
+    font-size: 1.9em;
+    text-align: justify;
+
+}
+p.proper {
+  text-align: justify;
+   text-indent: 1em;
+
+}
+p.indent {
+   text-indent: 1em;
+}
+hr.style1{
+  border-top: 2px solid #C0C0C0;
+}
+hr.style2{
+  border-top: 1px solid #C0C0C0;
+}
+.text-muted {
+    color: #bcbbbb;
+    font-weight: 900;
+}
+.text-header {
+    color: #FF0000;
+    font-weight: 900;
+}
+.text-thin {
+    font-weight: 100;
+}
+.title-super {
+    font-size: 18px;
+
+}
+.title-logo {
+    margin-top: 20px;
+}
+.thank-you {
+    text-align: center;
+    color: #bbb;
+    padding: 40px;
+}
+.text-alt-header {
+    color: #0F0101;
+    font-weight: 900;
+}
